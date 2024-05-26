@@ -112,7 +112,34 @@ body {
     color: #1A1F1E;
     margin: 66px 0 0 150px;
     width: 1000px;
-    text-align: center;
+    text-align: left;
+}
+.example {
+    font-size: 24px;
+    font-family: Montserrat;
+    font-weight: 600;
+    color: #00008B;
+    margin: 0 0 0 150px;
+    width: 1000px;
+    text-align: left;
+}
+.subtitle-dir1 {
+    font-size: 24px;
+    font-family: Montserrat;
+    font-weight: 600;
+    color: #1A1F1E;
+    margin: 0 0 0 150px;
+    width: 1000px;
+    text-align: left;
+}
+.subtitle-dir2 {
+    font-size: 24px;
+    font-family: Montserrat;
+    font-weight: 600;
+    color: #1A1F1E;
+    margin: 20px 0 10px 50px;
+    width: 1000px;
+    text-align: left;
 }
 .subtitle-dir span {
     font-weight: 900;
@@ -137,6 +164,7 @@ body {
     font-size: 36px;
     font-family: Montserrat;
     font-weight: 700;
+    text-align: center;
 }
 .wrapper-director {
     display: flex;
